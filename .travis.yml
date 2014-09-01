@@ -20,5 +20,3 @@ matrix:
     - rvm: jruby-head
     - rvm: ree
 script: ruby check-syntax.rb
-notifications:
-  irc: "irc.freenode.org#nadoka_jp"
